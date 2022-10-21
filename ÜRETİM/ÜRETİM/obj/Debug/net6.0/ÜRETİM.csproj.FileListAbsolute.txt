@@ -1,0 +1,15 @@
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\bin\Debug\net6.0\ÜRETİM.exe
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\bin\Debug\net6.0\ÜRETİM.deps.json
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\bin\Debug\net6.0\ÜRETİM.runtimeconfig.json
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\bin\Debug\net6.0\ÜRETİM.dll
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\bin\Debug\net6.0\ÜRETİM.pdb
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.csproj.AssemblyReference.cache
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.AssemblyInfoInputs.cache
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.AssemblyInfo.cs
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.csproj.CoreCompileInputs.cache
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.dll
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\refint\ÜRETİM.dll
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.pdb
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ÜRETİM.genruntimeconfig.cache
+C:\Users\AHMET SAVUL\source\repos\ÜRETİM\ÜRETİM\obj\Debug\net6.0\ref\ÜRETİM.dll

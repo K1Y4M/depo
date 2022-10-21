@@ -1,0 +1,15 @@
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\bin\Debug\net6.0\KÜTÜPHANE.exe
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\bin\Debug\net6.0\KÜTÜPHANE.deps.json
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\bin\Debug\net6.0\KÜTÜPHANE.runtimeconfig.json
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\bin\Debug\net6.0\KÜTÜPHANE.dll
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\bin\Debug\net6.0\KÜTÜPHANE.pdb
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.csproj.AssemblyReference.cache
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.AssemblyInfoInputs.cache
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.AssemblyInfo.cs
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.csproj.CoreCompileInputs.cache
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.dll
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\refint\KÜTÜPHANE.dll
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.pdb
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\KÜTÜPHANE.genruntimeconfig.cache
+C:\Users\AHMET SAVUL\source\repos\KÜTÜPHANE\KÜTÜPHANE\obj\Debug\net6.0\ref\KÜTÜPHANE.dll
